@@ -113,6 +113,7 @@ export default {
 				sans: ['Inter', 'sans-serif'],
 				display: ['Montserrat', 'sans-serif'],
 			}
+			
 		}
 	},
 	plugins: [require("tailwindcss-animate")],
